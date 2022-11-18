@@ -1,0 +1,43 @@
+List of queries : 1. Orders
+                  2. People
+                  3. Returns
+                  
+List of Columns : 1. orders : 
+                              a. Row ID
+                              b. Order ID
+                              c. Order Date
+                              d. Ship Date
+                              e. Ship Mode
+                              f. Customer ID
+                              g. Customer Name
+                              h. Segment
+                              i. Postal Code
+                              j. City 
+                              k. State
+                              l. Country 
+                              m. Region
+                              o. Market
+                              p. Product Id
+                              q. Category
+                              r. Sub- Category
+                              s. Product Name
+                              t. Quantity
+                              u. Discount
+                              v. Profit 
+                              w. Shipping Cost
+                              x. Order Priority
+                              y. Delivery Date
+                              z. Year
+                              
+                  2. People :
+                              a. Person
+                              b. Region
+                              
+                  3. Returns :
+                              a. Returned
+                              b. Order ID
+                              c. Region
+                              d. Returned Orders
+                           
+                              
+                              
